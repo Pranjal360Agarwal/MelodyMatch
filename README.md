@@ -64,3 +64,5 @@ https://github.com/Pranjal360Agarwal/MelodyMatch/assets/109459018/7d1ce88e-5863-
 Color palette from Spotify<br>
 Images from https://www.freepik.com/<br>
 Icons from https://icons8.com/<br>
+
+# Made with ❤ by [Pranjal Agarwal](https://github.com/Pranjal360Agarwal).
