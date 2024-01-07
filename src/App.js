@@ -288,9 +288,9 @@ function App() {
           </div>
           <div className='credits-slide'>
             <label>
-              Made by: Armatys Konrad
+              Made by: Pranjal Agarwal
               <br/>
-              Check me on <a href='https://github.com/karmatys8' target="_blank" rel='noreferrer'>GitHub</a>
+              Check me on <a href='https://github.com/Pranjal360Agarwal' target="_blank" rel='noreferrer'>GitHub</a>
             </label>
           </div>
         </div>
